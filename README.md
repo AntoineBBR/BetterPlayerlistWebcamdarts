@@ -11,10 +11,10 @@ An extension allowing to have a more complete interface to visualize and manage 
 - Add the script in Tampermonkey
     - Clic on the tampermonkey extension icon
         
-        ![Untitled](BetterPlayerlistWebcamdarts%202d02dd7e23d34f669a62c3ef2517e781/Untitled.png)
+        ![Untitled](rsrc/Untitled.png)
         
     - In the menu clic on “Add a new script”
         
-        ![Untitled](BetterPlayerlistWebcamdarts%202d02dd7e23d34f669a62c3ef2517e781/Untitled%201.png)
+        ![Untitled](rsrc/Untitled%201.png)
         
     - Remove all the code already present in the editor then press `ctrl+v` and `ctrl+s`
