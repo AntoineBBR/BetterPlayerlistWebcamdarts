@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Custom script for webcamdarts
-// @version      0.2
+// @version      0.3
 // @description  Custom script using "Better Userlist in Wabcamdarts-Lobby" and "Ultimate Webcamdarts Lobby"
 // @author       Antoine Imbert
 // @downloadURL  https://raw.githubusercontent.com/AntoineBBR/BetterPlayerlistWebcamdarts/main/script.js
@@ -51,7 +51,7 @@ referenceNode1.after(recbutton);
   addGlobalStyle('#lobby > div > div:nth-child(16) > div.chat-container.k-widget.k-splitter > div.split-view.k-pane.k-scrollable.k-widget.k-splitter > div.chat-users.k-pane.k-scrollable{font-size:13px;right:7px;min-width: 41%;max-width: 41%;}');
   addGlobalStyle('#lobby > div > div:nth-child(16) > div.chat-container.k-widget.k-splitter > div.split-view.k-pane.k-scrollable.k-widget.k-splitter > div.chat-window-container.k-pane.k-scrollable { padding: 0px;min-width: 59%;max-width: 59%;}');
   addGlobalStyle('.info-handle {position: absolute; height: 0px;opacity: 0.7;top:unset;bottom:unset;width:0px; margin-bottom: unset;margin-left: unset;line-height: 20px;padding-top: 25%;transform: rotate(0turn);padding-bottom: unset;background: content-box;border: none;text-transform: uppercase;padding-left: unset;}');
-  addGlobalStyle('.playercard {background:cyan;max-width:345px;min-width:345px;}');
+  addGlobalStyle('.playercard {background:white;max-width:345px;min-width:345px;}');
   addGlobalStyle('button.custombutton {margin-bottom:20px !important;margin-top:3px !important;margin-left:3px !important;}');
   addGlobalStyle('.bighonkinglogoutbutton a {margin-left: 150px !important;}');
   addGlobalStyle('#current-user.busy {max-width: 235px !important;}');
