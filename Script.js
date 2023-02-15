@@ -3,7 +3,7 @@
 // @version      0.01
 // @description  Custom script using "Better Userlist in Wabcamdarts-Lobby" and "Ultimate Webcamdarts Lobby"
 // @author       Antoine Imbert
-// @updateURL    
+// @updateURL    https://raw.githubusercontent.com/AntoineBBR/BetterPlayerlistWebcamdarts/main/script.js
 // @match        https://www.webcamdarts.com/GameOn/Lobby*
 // @match        https://www.webcamdarts.com/wda-games/tournaments/*
 // @require      https://code.jquery.com/ui/1.10.4/jquery-ui.js
