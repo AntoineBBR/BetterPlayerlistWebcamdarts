@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Custom script for webcamdarts
-// @version      0.01
+// @version      0.02
 // @description  Custom script using "Better Userlist in Wabcamdarts-Lobby" and "Ultimate Webcamdarts Lobby"
 // @author       Antoine Imbert
 // @downloadURL  https://raw.githubusercontent.com/AntoineBBR/BetterPlayerlistWebcamdarts/main/script.js
