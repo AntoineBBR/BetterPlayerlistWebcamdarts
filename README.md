@@ -1,4 +1,4 @@
-# BetterPlayerlistWebcamdarts
+# Better player list for Webcamdarts
 An extension allowing to have a more complete interface to visualize and manage the players.
 This extension is a fusion of two extensions as well as a graphic work to suit 14" screens.
 
