@@ -1,13 +1,13 @@
-# BetterPlayerlistWebcamdarts
+## BetterPlayerlistWebcamdarts
 An extension allowing to have a more complete interface to visualize and manage the players.
 This extension is a fusion of two extensions as well as a graphic work to suit 14" screens.
 
 - Ultimate Webcamdarts Lobby : https://greasyfork.org/en/scripts/401652-ultimate-webcamdarts-lobby
 - Better Userlist in Webcamdarts-Lobby : https://greasyfork.org/en/scripts/405707-better-userlist-in-webcamdarts-lobby
 
-# Installation
+## Installation
 
-## Part 1
+### Part 1
 
 First you need to install the web extension `Tampermonkey`
 
@@ -17,7 +17,7 @@ First you need to install the web extension `Tampermonkey`
 3. A pop-up appears, click on `Add extension`
 4. You can close the Tampermonkey page
 
-## Part 2
+### Part 2
 
 Next, you have to copy the script from `Github`
 
@@ -25,7 +25,7 @@ Next, you have to copy the script from `Github`
 [https://raw.githubusercontent.com/AntoineBBR/BetterPlayerlistWebcamdarts/main/script.js](https://raw.githubusercontent.com/AntoineBBR/BetterPlayerlistWebcamdarts/main/script.js)
 2. Copie all the content on the page (press `ctrl+a` then `ctrl+c`)
 
-## Part 3
+### Part 3
 
 Finally, add the script in Tampermonkey
 
@@ -33,7 +33,7 @@ Finally, add the script in Tampermonkey
 2. In the menu, click on `Create a new script`
 3. Remove all the code already present in the editor and paste the code from Github by pressing `ctrl+v` and `ctrl+s`
 
-## Part 4
+### Part 4
 
 Now, it’s time for the first test
 
@@ -42,7 +42,7 @@ Now, it’s time for the first test
 3. Click on the button `always allow domain` (bottom left corner)
 4. The new interface should be displayed
 
-# Update
+## Update
 
 Usually, Tampermonkey checks once a day if the scripts are up to date
 
