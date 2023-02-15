@@ -3,6 +3,7 @@ An extension allowing to have a more complete interface to visualize and manage 
 This extension is a fusion of two extensions as well as a graphic work to suit 14" screens.
 
 Ultimate Webcamdarts Lobby : https://greasyfork.org/en/scripts/401652-ultimate-webcamdarts-lobby
+
 Better Userlist in Webcamdarts-Lobby : https://greasyfork.org/en/scripts/405707-better-userlist-in-webcamdarts-lobby
 
 # Installation
